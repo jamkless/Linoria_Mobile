@@ -59,7 +59,7 @@ local Library = {
 	Toggled = false;
 	
 	MinSize = Vector2.new(450, 150);
-	IsMobile = false;
+	IsMobile = true;
 	DevicePlatform = Enum.Platform.None;
 	CanDrag = true;
 	CantDragForced = false;
